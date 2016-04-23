@@ -3280,7 +3280,7 @@
 				{ "name":"fenv.h", "mode":"100644", "size":178},
 				{ "name":"syscall.h", "mode":"100644", "size":16987, "c":1},
 				{ "name":"socket.h", "mode":"100644", "size":239},
-				{ "name":"resource.h", "mode":"100644", "size":0},
+				{ "name":"resource.h", "mode":"100644", "size":6967},
 				{ "name":"ipc.h", "mode":"100644", "size":175},
 				{ "name":"statfs.h", "mode":"100644", "size":195},
 				{ "name":"mman.h", "mode":"100644", "size":1535},
